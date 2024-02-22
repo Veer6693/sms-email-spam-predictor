@@ -42,3 +42,8 @@ Make sure you have the following libraries installed:
 
 ### Why Precision Score is Important
 In SMS/EMAIL spam classification, precision is more important than recall because we want to minimize false positives (i.e., classifying non-spam messages as spam). False positives can be more harmful in this scenario as important messages might be marked as spam, leading to potential loss of information or opportunities.
+
+![Screenshot 2024-02-22 165545](https://github.com/Veer6693/sms-email-spam-predictor/assets/102231617/ef2c181c-02a8-493b-8a65-d3d41aaaf62d)
+
+![Screenshot 2024-02-22 165800](https://github.com/Veer6693/sms-email-spam-predictor/assets/102231617/2981dd20-8360-469d-926b-60181c33945a)
+
